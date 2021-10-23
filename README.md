@@ -1,2 +1,3 @@
-# Gav-ENVIRONMENT
-GTK Theme for Linux
+# Gav Environment
+
+> Another GTK Theme for Gnome **40** / **41**
